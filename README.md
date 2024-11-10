@@ -5,7 +5,7 @@ It accounts for 75% of skin cancer deaths.
 A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 ## General Information
-- Here we have to create a CNN model for the probelem statement.
+- Here we have to create a CNN model for the problem statement.
 - Melanoma cancer is one of the preominant skin cancer types that accounts for maximum death.
 - If it is detected or suspected at early stages, it can reduce a lot of work and dermatologists can start dignosis.
 The objective of this project is to analyse the dataset and come up with a CNN model to predict the cancer on basis of the image of the skin spot.
